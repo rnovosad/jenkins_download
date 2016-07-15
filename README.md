@@ -6,6 +6,8 @@ It is easy adjustable to any environment. You just need to provide branch name a
 
 Usage:
 
-gem install bundler
+Checkout script and Gemfile;
 
-bundle install
+$ gem install bundler
+
+$ bundle install
